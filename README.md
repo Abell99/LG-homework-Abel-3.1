@@ -64,13 +64,13 @@ let vm = new Vue({
 >
 > - patch方法的执行逻辑图
 >
->   ![image-20200731042746692](C:\Users\Abel\Desktop\image-20200731042746692.png)
+>   ![patch方法的执行逻辑图](./img/1.png)
 >
 >   - 在新旧节点都有子节点的时候执行：**upadteChildren**
 >
 >     > **使用diff算法对比子节点，更新子节点**
 >
->     ![image-20200731120359166](C:\Users\Abel\Desktop\image-20200731120359166.png)
+>     ![使用diff算法对比子节点，更新子节点](./img/2.png)
 
 ## 二、编程题
 
