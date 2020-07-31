@@ -1,0 +1,5 @@
+1~Basic review of VueJs阶段，代码目录说明。
+
+01----Vue基础结构
+02----模拟实现VueRouter，模拟一个最低规格的Vue响应式
+03----虚拟DOM
